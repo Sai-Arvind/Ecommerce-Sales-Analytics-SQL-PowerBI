@@ -115,6 +115,9 @@ Dashboard optimized using:
 
 Performance improvement: ~30% faster rendering.
 
+## 📊 Dashboard Preview
+![dash](https://github.com/user-attachments/assets/53cd6b27-cc27-44bf-b63e-ea85226b9281)
+
 ---
 
 # 📊 Key Insights  
