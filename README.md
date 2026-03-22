@@ -54,7 +54,7 @@ Implemented a **Star Schema** in Power BI to ensure high performance and scalabi
 
 This project tracks key business metrics across multiple dimensions to evaluate performance, growth, and efficiency.
 
-| Category | KPIs | insight|
+| Category | KPIs | insight⭐|
 |----------|------|------|
 | **Sales** → | Total Revenue, Orders, AOV | Overall business health |
 | **Customer** → | Repeat %, Revenue Contribution | Loyalty and retention strength |
